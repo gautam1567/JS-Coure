@@ -30,4 +30,11 @@ let stringNumber = String(someNumber);
 console.log(stringNumber);
 console.log(typeof(someNumber));
 
-//
+
+
+// ******** Operations *******
+
+let value = 3;
+let negValue = -value;
+// console.log(negValue);
+
